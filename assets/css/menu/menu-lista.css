@@ -1,0 +1,7 @@
+.menu__lista {
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}

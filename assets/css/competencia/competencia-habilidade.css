@@ -1,0 +1,11 @@
+.competencia__habilidade {
+    background: #cebebd;
+    border: 1px solid #9c7a77;
+    border-radius: 10px;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 2.2rem;
+    margin-right: 0.2rem;
+    padding: 5px;
+}

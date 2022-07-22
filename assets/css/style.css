@@ -1,0 +1,28 @@
+@media screen and (min-width: 0) {
+    body{
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        color:#181818;
+        display:flex;
+        font-family: 'Libre Baskerville', serif;
+        font-weight: 400;
+        font-size: 0.9rem;
+        line-height: 1.2rem;
+        flex-direction: row;
+        
+    }
+    
+ 
+}
+
+em {
+    font-style: italic;
+}
+strong {
+    font-weight: bold;
+}
+   

@@ -1,0 +1,9 @@
+.informacao__link{
+    color:#181818;
+    text-decoration: none;
+}
+
+.informacao__link:hover{
+    opacity: 30%;
+    text-decoration: none;
+}

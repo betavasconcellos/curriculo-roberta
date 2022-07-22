@@ -1,0 +1,12 @@
+.menu__item {
+    background: #edecec;
+    border-radius: 10px;
+    border:1px solid #4e4d4d;
+    padding: 2px 5px;
+    margin:2px;
+}
+
+.menu__item:hover {
+    background: #4e4d4d;
+    color:#ffffff;
+}
